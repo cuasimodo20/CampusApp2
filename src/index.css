@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@theme {
+--color-primario: #0E3B3A; /* encabezado y botones principales */
+--color-acento: #E9A23B; /* botones de acción y pestaña activa
+(desde la Sesión 3) */
+--color-fondo: #F6F4EE; /* fondo de toda la pantalla y letras del
+encabezado */
+--color-texto: #1D3534; /* color de los textos */
+--color-tarjeta: #FFFFFF; /* fondo de cada tarjeta de la lista */
+--color-sobre-acento: #0E3B3A; /* letras sobre los botones de acento */
+}
